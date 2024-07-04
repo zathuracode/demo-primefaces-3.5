@@ -1,0 +1,102 @@
+# Directorios y archivos generados por Maven
+/target/
+!*/src/main/resources/static/target
+
+# Archivos de configuración específicos de la IDE
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+
+# Archivos y directorios específicos de Eclipse
+/.metadata/
+/bin/
+/tmp/
+
+# Archivos y directorios específicos de IntelliJ IDEA
+/.idea/
+/*.iws
+/*.iml
+/*.ipr
+
+# Archivos específicos de NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Archivos de configuración de VS Code
+/.vscode/
+
+# Archivos de compilación de Gradle
+/.gradle/
+/build/
+/out/
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos y directorios específicos de log y runtime
+*.log
+/logs/
+/*.war
+/*.ear
+*.class
+
+# Librerías dependencias locales
+/lib/
+/libs/
+
+# Archivos de configuración de IntelliJ IDEA
+/.idea/
+/*.iws
+/*.iml
+/*.ipr
+
+# Directorios de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y bases de datos locales
+*.log
+*.sql
+*.sqlite
+
+# Archivos de configuración temporales y backups
+*.tmp
+*.bak
+*.swp
+
+# Archivos de paquetes
+*.jar
+*.war
+*.ear
+
+# Directorios de cobertura de pruebas
+/coverage/
+/.jacoco/
+
+# Archivos de generación de documentación
+/site/
+
+# Archivos de build de SBT
+/target/
+/lib_managed/
+/src_managed/
+/.ensime_cache/
+
+# Directorios de cobertura de pruebas
+/coverage/
+/.jacoco/
+
+# Archivos de generación de documentación
+/site/
+
+# Directorios específicos de sistemas de build
+/.mvn/
+/build/
+/out/

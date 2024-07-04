@@ -1,0 +1,6 @@
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH
+
+sdk use maven 3.2.5
+
+export MAVEN_OPTS="-Dhttps.protocols=TLSv1.2 -Djdk.tls.client.protocols=TLSv1.2"
